@@ -2,9 +2,9 @@
 
 
 ## 1:
-Navegar hasta la carpeta correspondiente al archivo a ejecutar.
-apiCardsTDD\Cartas>
+Navegar hasta la carpeta correspondiente al archivo a ejecutar, ej: 
+ apiCardsTDD\Cartas
 ## 2:
-Ejecutar archivo con:
-go test -v .\Getcartas_test.go
+Ejecutar archivo, ej:
+ go test -v .\Getcartas_test.go
 
